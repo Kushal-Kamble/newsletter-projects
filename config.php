@@ -1,13 +1,13 @@
 <?php
 // config.php
 // Update these values for your environment
-$BASE_URL = 'http://localhost/newsletter-project-kushal'; // change if needed
+$BASE_URL = 'http://localhost/newsletter-project-vishal'; // change if needed
 
 // DB
 $DB_HOST = 'localhost:3309';
 $DB_USER = 'root';
 $DB_PASS = ''; // your DB password
-$DB_NAME = 'salman_newletter_projects';
+$DB_NAME = 'firstvishal_newletter_projects';
 
 // Connect
 $conn = new mysqli($DB_HOST, $DB_USER, $DB_PASS, $DB_NAME);
